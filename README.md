@@ -1,22 +1,20 @@
+# My Programming Solutions Repository
 
-Feel free to explore and use the code as a reference for your own learning and development.
+Welcome to my programming solutions repository! In this repository, I store the programs and coding challenges I've solved from various sources like LeetCode, HackerRank, Codeforces, and more.
 
-## Usage
+## Table of Contents
 
-You are welcome to use these solutions for reference or learning purposes. If you find a bug or want to improve a solution, please consider contributing (see [Contributing](#contributing)).
+- [Introduction](#introduction)
+- [Folder Structure](#folder-structure)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Contributing
+## Introduction
 
-If you'd like to contribute to this repository by adding your own solutions or improving existing ones, please follow these steps:
+In this repository, you will find solutions to a variety of programming problems and challenges. These solutions are organized by platform or source, making it easy to navigate and find specific solutions you're interested in.
 
-1. Fork this repository.
-2. Create a new branch with a descriptive name (`git checkout -b my-new-solution`).
-3. Make your changes and commit them (`git commit -m 'Add solution for Problem_X'`).
-4. Push your changes to your forked repository (`git push origin my-new-solution`).
-5. Open a pull request to this repository, explaining your changes.
+## Folder Structure
 
-I appreciate your contributions!
+Here's an overview of the folder structure in this repository:
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE), which means you are free to use the code for any purpose. However, please refer to the license file for more details.
